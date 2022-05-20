@@ -8,7 +8,7 @@ fun main() {
     // final String intro = "Hello";
     val age: Int = 12;
 
-    // intro = Hello, age = 12
+    // intro = Hello, age = 12`
     println("intro = ${intro} , age = ${age}")
     println("intro = " + intro + ", age = ${age}")
 
